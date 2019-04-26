@@ -1,0 +1,1 @@
+<a href="[url]" class="dropdown-item[active]" target="[target]">[icon] [title]</a>
