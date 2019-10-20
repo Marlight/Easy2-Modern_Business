@@ -1,62 +1,32 @@
-# [Start Bootstrap - Modern Business](https://startbootstrap.com/template-overviews/modern-business/)
+# [EASY 2.0 - v.0.9.8](https://marlight-systems.de/?p=project_easy_2)
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+Du suchst ein Loginsystem welches noch viel eigenes Potential bietet? Dann könnte dieses das Richtige für dich sein!
+
+Das EASY 2.0 bietet dir weit aus mehr Features als sein Vorgänger. Dazu zählen unter anderem die Seiten- und Menüverwaltung, sowie das neue Rechtesystem und vieles mehr. Die Strukturen wurden vereinfacht und viele von euch gewünschte Features eingebaut. Um das System nutzen zu können benötigst du keine PHP-Kenntnisse, aber HTML sollte dir nicht fremd sein.
+
+Auch auf Sicherheit haben wir geachtet, so ist das System gegen SQL-Injection, XSS oder CSRF geschützt. Du bist Herzlich dazu eingeladen, eigene Funktionen und Features für das System zu entwickeln. Hilfe dazu findest du in der Dokumentation sowie in der Einleitung "Eigene Funktionen". Bei Fragen zum System kannst du jederzeit unser Support kontaktieren. Wir freuen uns auch über alle Meldungen zu Bugs, Verbesserungen oder neuen Ideen.
+
+Das EASY 2.0 nutzt das beliebte Bootstrap Design. Dies bietet den Vorteil, das es auf andere Bootstrap Desgins schnell und einfach umgebaut werden kann. Die Anleitung findest du hier. Gegen einen Umkostenbeitrag übernehmen wir auch das für dich! Kontaktiere dazu einfach unser Support mit der Kategorie "Desgin wechsel" und dem Grund/Betreff "kostenpflichtiger Desgin wechsel". Nach geschätztem Aufwand erhälst du von uns ein Angebot.
 
 ## Preview
 
-[![Modern Business Preview](https://startbootstrap.com/assets/img/templates/modern-business.jpg)](https://blackrockdigital.github.io/startbootstrap-modern-business/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-modern-business/)**
+**[View Live Preview](https://marlight-systems.de/?p=project_easy_2)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-modern-business/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-modern-business.svg)](https://www.npmjs.com/package/startbootstrap-modern-business)
+[![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-modern-business/master/LICENSE)
 [![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-modern-business.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-modern-business)
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business?type=dev)
 
 ## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/modern-business/)
-* Install via npm: `npm i startbootstrap-modern-business`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-modern-business.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-modern-business)
+Lade dir die aktuellste Version des EASY 2.0 Loginsystem herunter. Entpacke das ZIP-Verzeichnis und lade alle Dateien auf deinen Webspace/Server ins gewünschte Verzeichnis hoch (z.B. mit FileZilla). Rufe mit deinem Browser deine Webseite (ggf. das Verzeichnis in dem du es hochgeladen hast) auf.
 
-## Usage
+Folge den Anweisungen der Installation. Lege dir die Daten deines MySQL-Servers (Host, Benutzername, etc.) betreit. Ist die Installation abgeschlossen, sollte nach dem drücken auf "zum System" die Meldung "Installationsverzeichnis wurde gelöscht!" erscheinen. Falls nicht, lösche das Verzeichnis "install" bitte manuell, da es sonst ein hohes Sicherheitsrisko darstellt!
 
-### Basic Usage
+**[Downloads](https://marlight-systems.de/?p=project_easy_2&s=downloads)**
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-modern-business/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/modern-business/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
+Copyright 2012-2019 Marlight Systems. Code released under the [GPL] license.
